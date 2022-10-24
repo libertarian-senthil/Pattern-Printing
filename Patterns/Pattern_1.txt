@@ -5,3 +5,6 @@ Pattern_1:
 * * * * *
 * * * * *
 * * * * *
+
+Dimension: 5x5
+
